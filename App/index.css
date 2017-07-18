@@ -1,0 +1,35 @@
+*{margin:0;list-style: none;text-decoration: none;}
+@media screen and (max-width: 1370px) {
+	 body{width: 1366px;overflow-x: hidden;}
+	.all_page{width: 1366px;}
+	.f1{position: absolute;margin-top:-480px;margin-left: 290px;width: 375px;}
+	.f2{position: absolute;margin-top:-415px;margin-left: 290px;width: 375px;}
+	.f3{position: absolute;margin-top:-340px;margin-left: 290px;width: 325px;}
+	.and1,.ios1{position: absolute;margin-top:-115px;width: 175px;cursor: pointer;}
+	.ios1{margin-left: 300px;}
+	.and1{margin-left: 500px;}
+	.phone1{position: absolute;margin-top: -480px;margin-left: 900px;width: 430px;opacity: 0;}
+	.p2{margin-top:-10px;}
+	.p3{margin-top:-5px;}
+	.phone2{width: 350px;position: absolute;margin-top:-270px;margin-left: 50px;opacity: 0;}
+	.f4{position: absolute;width: 320px;margin-top:-400px;margin-left: 650px;opacity: 0;}
+	.f5{position: absolute;width: 440px;margin-top:55px;margin-left: 650px;opacity: 0;}
+	.f6{position: absolute;width: 325px;margin-top:-200px;margin-left: 275px;opacity: 0;}
+	.f7{position: absolute;width: 410px;margin-top:-150px;margin-left: 190px;opacity: 0;}
+	.f8{position: absolute;width:315px;margin-top:-290px;margin-left: 1040px;opacity: 0;}
+	.f9{position: absolute;width:215px;margin-top:-135px;margin-left: 900px;}
+	.p4,.p5,.p6{margin-top:-10px;}
+	.f10{position: absolute;width: 410px;margin-top:-255px;margin-left: 900px;opacity: 0;}
+	.f11{position: absolute;width:315px;margin-top:-290px;margin-left: 140px;opacity: 0;}
+	.f12{position: absolute;width:215px;margin-top:-135px;margin-left: 900px;}
+	.f21{position: absolute;width:435px;margin-top:-185px;margin-left: 900px;opacity: 0;}
+	.f13{position: absolute;width:275px;margin-top:-295px;margin-left: 1050px;opacity: 0;}
+	.f14{width:620px;position: absolute;margin-left: 373px;margin-top: -240px;}
+	.f23,.f24{margin-left:0px;position: absolute;opacity: 0;}
+	.f23{width: 330px;margin-top: -250px;}
+	.f24{width: 620px;margin-top: -190px;}
+	.f15,.f16{width: 155px;position: absolute;margin-top:-260px;margin-left: 280px;opacity: 0;}
+	.f16{margin-left: 930px;margin-top:-270px;}
+	.f17,.f18{width: 220px;position: absolute;margin-top:-200px;margin-left: 445px;cursor: pointer;}
+	.f18{margin-left: 705px;margin-top:-203px;}
+}
