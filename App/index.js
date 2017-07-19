@@ -45,7 +45,7 @@ $(document).ready(function () {
  		},600);
  		
  	}
- 	if (p_h>=1200) {
+ 	if (p_h>=1100) {
  		 setTimeout(function () {
  			$(".f14").css({"transition":"1s","transform":"translateY(-100px)","opacity":"1"});
  			$(".f17").css({"transition":"1s","transform":"translateY(100px)","opacity":"1"});
